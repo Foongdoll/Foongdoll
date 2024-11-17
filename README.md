@@ -33,3 +33,14 @@
 - GitHub: [[Your GitHub](https://github.com/yourgithub)](https://github.com/Foongdoll)
 
 저에 대해 더 알고 싶으시다면 언제든지 연락해주세요! 🚀
+
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Foongdoll?pet-id=646006713742517078"
+    width="600"
+    height="120"
+  />
+</a>
+  
