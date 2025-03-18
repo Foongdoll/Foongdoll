@@ -29,8 +29,8 @@
 
 ## 연락처
 
-- 이메일: yourname@example.com
-- GitHub: [[Your GitHub](https://github.com/yourgithub)](https://github.com/Foongdoll)
+- 이메일: foongdollmeng2@naver.com
+- GitHub: [[Your GitHub]([https://github.com/Foongdoll])](https://github.com/Foongdoll)
 
 저에 대해 더 알고 싶으시다면 언제든지 연락해주세요! 🚀
 
