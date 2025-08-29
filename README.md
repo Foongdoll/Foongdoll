@@ -1,40 +1,67 @@
-## 인사
+# 👋 Hi, I'm 신현우 (Shin Hyunwoo)
 
-안녕하세요! 👋 저는 개발자로서 꾸준히 성장하고 있는 신현우입니다. 주로 웹 애플리케이션 개발에 관심이 많으며, 다음과 같은 기술 스택을 사용합니다:
+🚀 **Full-Stack Developer | Java · Spring Boot · React**  
 
-## 기술 스택
+사용자가 체감하는 가치를 높이고, 팀과 함께 성장하는 개발자입니다.  
+Java·Spring Boot 기반 백엔드와 React 기반 프론트엔드 모두 경험하며,  
+**안정성·보안성·확장성**을 고려한 서비스를 개발합니다.
 
-- **프론트엔드**
-  - JavaScript
-  - React.js
-  - HTML5, CSS3
+---
 
-- **백엔드**
-  - Java / Spring Boot
-    C# / ASP.NET
-  - Node.js / Express
+## 🔧 Tech Stack
 
-- **데이터베이스**
-  - MySQL
-  - Oracle
+- **Backend**: Java, Spring Boot, Node.js, NestJS, JSP  
+- **Frontend**: React.js, Vue.js, Nexacro, Unity(C#)  
+- **Database**: Oracle, MySQL, MS SQL Server  
+- **Infra / Tools**: Linux(CentOS/Ubuntu), Nginx, AWS, Git/GitHub  
+- **Key Skills**
+  - RESTful API & 인증 (JWT, OAuth, Spring Security)  
+  - DB 모델링 & 성능 최적화 (SQL 튜닝, 인덱싱)  
+  - 운영/유지보수, 로그 분석, 배포 자동화 경험  
+  - 팀 협업(코드 리뷰·멘토링·문서화)  
 
-- **기타**
-  - Git / GitHub
+---
 
-## 프로젝트
+## 🏢 Experience
 
-1. **오늘 뭐 볼까?**: 영화 예매 사이트 구현 - 국비 학원 1인 프로젝트
-2. **선문대학교 학사정보시스템 리뉴얼**: 📝 학사정보시스템 리뉴얼 프로젝트 
-3. **인천 서구청 계약정보시스템 리뉴얼**: 🛒 인천 서구청 계약정보시스템 리뉴얼 프로젝트
+- **㈜울림 (2024.12 ~ 현재)**  
+  - 동물용 의약품 관리 시스템 고도화 (Spring Boot, Nexacro)  
+  - eCTD 4.0 전환 프로젝트 (Spring Boot, XML)  
+  - 식약처 연구관리시스템 유지보수 (JSP, Java, Oracle)  
 
-## 연락처
+- **이노베이션티㈜ (2023.05 ~ 2024.11)**  
+  - 오늘의 나 – SNS 플랫폼 (Node.js, React Native, 결제 API)  
+  - 선문대학교 학사정보시스템 리뉴얼 (VB → C# 포팅, MS SQL)  
+  - 인천 서구청 계약정보시스템 리뉴얼 (Java, Spring, Oracle, Linux)  
+  - FillMe 건강관리 앱 (Spring Boot, JWT, MySQL)  
+  - 코레일 현장점검 프로그램 (Spring Boot, Security, MySQL)  
+  - 후키 블로그 체험단 사이트 (PHP, 그누보드)  
+  - 인사동 사이니지 (Unity, C#, 다국어/자막 시스템)  
 
-- 이메일: foongdollmeng2@naver.com
-- GitHub: [[Your GitHub]([https://github.com/Foongdoll])](https://github.com/Foongdoll)
+---
 
-저에 대해 더 알고 싶으시다면 언제든지 연락해주세요! 🚀
+## 📂 Featured Projects
 
+- [WithU-BE](https://github.com/Foongdoll/WithU-BE) – 커플 일정/앨범 관리 백엔드  
+- [WithU-FE](https://github.com/Foongdoll/WithU-FE) – 커플 일정/앨범 관리 프론트엔드  
+- [포트폴리오 사이트](http://13.124.87.223/portfolio) – 프로젝트 모음  
 
+---
+
+## 🎓 Education
+
+- 한국방송통신대학교 컴퓨터과학과 (재학 중, 2023 ~ )  
+- 청주고등학교 이과계열 졸업  
+- 그린아트컴퓨터학원 풀스택 과정 수료 (2022, 3회 프로젝트 1등)  
+
+---
+
+## 📫 Contact
+
+- Email: **healim5028@naver.com**  
+- GitHub: [github.com/Foongdoll](https://github.com/Foongdoll)  
+
+---
 
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -43,4 +70,3 @@
     height="120"
   />
 </a>
-  
