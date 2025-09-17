@@ -82,10 +82,10 @@ React 및 Electron 기반 프론트엔드 경험으로 **서비스 전반을 이
 
 ---
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Foongdoll?pet-id=646006713742517078"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Foongdoll&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Foongdoll"
+  width="600"
+  height="400"
+/>
 </a>
