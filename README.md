@@ -83,10 +83,15 @@ React 및 Electron 기반 프론트엔드 경험으로 **서비스 전반을 이
 ---
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=healim5028)](https://solved.ac/healim5028) 
+
 ---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Foongdoll&theme=onedark)](https://github.com/foongdoll)
+
 ---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foongdoll&show_icons=true&theme=radical)
+
 ---
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Foongdoll&utm_content=farm">
 <img
