@@ -50,7 +50,8 @@ React 및 Electron 기반 프론트엔드 경험으로 **서비스 전반을 이
 - **이노베이션티㈜ (2023.05 ~ 2024.11)**  
   - 오늘의 나 – SNS 플랫폼 (Node.js, React Native, 결제 API) → **결제 API 연동 안정화, 앱 배포 경험**  
   - 선문대학교 학사정보시스템 리뉴얼 (VB → C# 포팅, MS SQL) → **공통 모듈 고도화 및 성능 최적화**  
-  - 인천 서구청 계약정보시스템 리뉴얼 (Java, Spring, Oracle, Linux) → **SQL 튜닝 및 서버 운영 경험 확대**  
+  - 인천 서구청 계약정보시스템 리뉴얼 (Java, Spring, Oracle, Linux) → **SQL 튜닝 및 서버 운영 경험 확대**
+  - 인천 중구청 OS 마이그레이션 (CentOS 6, Rocky Linux) → **내부망/외부망 환경 CentOS6 -> Rocky Linux7 마이그레이션**  
   - FillMe 건강관리 앱 (Spring Boot, JWT, MySQL) → **인증·보안 시스템 구축, 맞춤형 추천 로직 개발**  
   - 코레일 현장점검 프로그램 (Spring Boot, Security, MySQL) → **팀 리딩, 산출물 자동화로 업무 효율 50% 개선**  
   - 후키 블로그 체험단 사이트 (PHP, 그누보드) → **사용자 경험 개선 및 프로젝트 관리**  
